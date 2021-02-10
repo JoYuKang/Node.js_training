@@ -24,6 +24,8 @@
   - npm install mysql2
   
   - npm install dotenv
+  
+  - npm install moment
      
      구현기능 
      - DB 연동
